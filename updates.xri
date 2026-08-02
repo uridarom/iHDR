@@ -5,18 +5,18 @@
          iHDR script download
      </p>
    </description>
-   <platform os="all" arch="noarch" version="1.8.9-1:1.9.10">
-      <package fileName="iHDR20240104_v213.zip" sha1="5f189233103ad9eb0cf76a8d93198f4091b47f6f" type="script" releaseDate="20250104">
+   <platform os="all" arch="noarch" version="1.9.4-1:1.9.10">
+      <package fileName="iHDR20260802_v214.zip" sha1="ce5dd89a1f6236c1b43da65cca9613cb49bb918b" type="script" releaseDate="20260802">
          <title>
             iHDR
          </title>
          <remove/>
          <description>
             <p>
-               Updated script icon
+               Ported to 1.9.4, bug fixes
             </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="Uri Darom" timestamp="2025-03-02T05:25:22.216Z" encoding="Base64">0NNJ9rDZoHEwNntg4dFBv7w6xvcBPdNBWpvu/VHT0ELInSH+kZvRs+57PpxPJTx3DS5raY0kqz/tB1scdYiYAg==</Signature>
+<Signature developerId="Uri Darom" timestamp="2026-08-02T18:11:03.874Z" encoding="Base64">DCZoAlXkdTosGtsjMblt+GCm8ThqItygsCqQ86fSqiO0XlbWEmJIcjIINwIt6+CEtFMaL+uxO5dyteMxDV4zAQ==</Signature>
