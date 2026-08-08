@@ -1,5 +1,7 @@
 # iHDR
 
+For a comprehensive guide, see [here](https://uridarom.com/projects/ihdr/).
+
 <p>One of the most difficult targets to process in astrophotography are ones with extremely large differences in brightness. These can include galaxies with very faint halos, or nebulae with very bright cores, such as the Orion Nebula; in all of these examples, the target includes both a very bright inner “core” area, and a faint outer “halo” area. The challenge is to display both of these components in the final image such that neither is too dark nor too bright, while still maintaining a natural looking result.</p>
 
 <img width="1480" height="1170" alt="image" src="https://github.com/user-attachments/assets/2cb62317-e3a9-4046-b28a-fce594b394af" />
